@@ -12,14 +12,6 @@ header nav {
 header nav ul{
     list-style: none;
 }
-/*premiere page*/
-.hdp{
-    display: inline; text-align: center; align-content: center;
-}
-#img{display:block; align-content: center;
-    margin: 0;
-    padding: 0;
-}
 header nav ul li{
     margin: 0;
     padding: 0;
@@ -42,4 +34,12 @@ header nav ul li ul li{
 }
 header nav ul li:hover ul li{
     display: block;
+}
+/*premiere page*/
+.hdp{
+    display:block; text-align: center; align-content: center;
+}
+#img{display:block; align-content: center;
+    margin: 0;
+    padding: 0;
 }
