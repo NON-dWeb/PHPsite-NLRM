@@ -5,6 +5,7 @@ body{
 /*typo*/
 header{
     font-family: Arial;
+    position: relative;
 }
 
 /*barre de navigation*/
