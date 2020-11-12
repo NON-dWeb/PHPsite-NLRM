@@ -1,11 +1,11 @@
 /*couleur de fond*/
 body{
-    background-color: rgba(128, 128, 128, 0.979);
+    background-color:white);
 }
 /*typo*/
 header{
     font-family: Arial;
-    position: relative;
+    position: relative; color: white;
 }
 
 /*barre de navigation*/
@@ -35,7 +35,7 @@ header nav ul li a{
     display: block;
 }
 header nav ul li a:hover{
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
     opacity: 0.5;
 }
 header nav ul li ul li{
@@ -59,3 +59,11 @@ margin-top: 10%
 #column{
     flex-direction: column;
 }
+canvas {
+  
+    position: fixed;
+    z-index: -1 ;
+    top: 0;
+    left: 0;
+    
+  }
