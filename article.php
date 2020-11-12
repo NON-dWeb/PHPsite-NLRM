@@ -18,24 +18,10 @@
 <header>
     <nav id="block">
         <ul>
-            <li><a href="index.html">Acceuil</a>
-                <ul id="column">
-                    <li><a>Un</a></li>
-                    <li><a>Deux</a></li>
-                    <li><a>Trois</a></li>
-                    <li><a>Quatre</a></li>
-                </ul>
-            </li>
-            <li><a>Price</a>
-                <ul id="column">
-                    <li><a>Un</a></li>
-                    <li><a>Deux</a></li>
-                    <li><a>Trois</a></li>
-                    <li><a>Quatre</a></li>
-                </ul>
-            </li>
-            <li><a>Agenda</a></li>
-            <li><a>Contact</a></li>
+        <li><a href="index.html">Acceuil</a></li>
+            <li><a href="price.html">Price</a></li>
+            <li><a href="agenda.html">Agenda</a></li>
+            <li><a href="contact.html">Contact</a></li>
         </ul>
     </nav>
 
