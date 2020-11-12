@@ -11,7 +11,7 @@
 <header>
     <nav id="block">
         <ul>
-            <li id="decoration"><a href="http://localhost/PHPsite-NLRM/index.html">Acceuil</a>
+            <li><a href="http://localhost/PHPsite-NLRM/index.html">Acceuil</a>
                 <ul id="column">
                     <li><a>Un</a></li>
                     <li><a>Deux</a></li>
