@@ -44,7 +44,7 @@
             <a href="#">
                 <img src="img blog/AdobeStock_233198529_Preview.jpeg" alt="premiere image du site">
             </a>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Nam vel dui erat. Quisque a justo tellus. Nullam eu tellus a leo
                 placerat lacinia dictum sollicitudin ante.
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
