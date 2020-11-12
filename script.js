@@ -188,28 +188,3 @@ Line.prototype.step = function() {
 }
 
 
-tic.getClass(i) == Tac.class
-var coeff=4;//Coefficient de reduction
-var larg=400;//largeur maxi de l'image
-var haut=388;//hauteur maxi de l'image
-var coeffinit=coeff;
-function changer() {
-if (document.image.width < larg) {
-coeff = coeff-0.2;
-document.image.width = Math.round(larg/coeff);
-document.image.height = Math.round(haut/coeff);
-chang=window.setTimeout('changer();',60);//vitesse de l'effet
-}
-else {window.clearTimeout(chang);}
-}
-function initial() {
-if (document.image.width > larg/coeffinit) {
-window.clearTimeout(chang);
-coeff = coeff+0.2;
-document.image.width = Math.round(larg/coeff);
-document.image.height = Math.round(haut/coeff);
-
-initi=window.setTimeout('initial();',60);//vitesse de l'effet
-}
-else {window.clearTimeout(initi);}
-}
