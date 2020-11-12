@@ -33,6 +33,7 @@ header nav ul li{
 }
 header nav ul li a{
     display: block;
+    color: #FFFFFF;
 }
 header nav ul li a:hover{
     background-color: rgb(8, 8, 8);
@@ -47,26 +48,23 @@ header nav ul li:hover ul li{
 
 /*premiere page*/
 .hdp{
-    display: block; text-align: center; align-content: center;margin-top: 10%;
-
+    display: block; 
+    text-align: center; 
+    align-content: center;
+    margin-top: 10%;
 }
 .articles{
     display: flex;
-justify-content: space-around;
-margin-top: 10%
+    justify-content: space-around;
+    margin-top: 10%
 
 }
 #column{
     flex-direction: column;
 }
 canvas {
-  
     position: fixed;
     z-index: -1 ;
     top: 0;
     left: 0;
-    
   }
-#block{
-    color: #FFFFFF;
-}
