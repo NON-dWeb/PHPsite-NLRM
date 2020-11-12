@@ -6,12 +6,18 @@
     <title>Php site</title>
     <link rel="stylesheet" href="style.css" />
     <script type="texte/javascript" src="script.js"></script>
+    <style type="text/css">
+        a:link
+        {
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body>
 <header>
     <nav id="block">
         <ul>
-            <li><a>Acceuil</a>
+            <li><a href="http://localhost/PHPsite-NLRM/index.html">Acceuil</a>
                 <ul id="column">
                     <li><a>Un</a></li>
                     <li><a>Deux</a></li>
