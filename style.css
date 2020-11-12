@@ -5,7 +5,7 @@ body{
 /*typo*/
 header {
     font-family: Arial;
-    position: relative; color: white;
+    position: relative; 
 }
 
 /*barre de navigation*/
@@ -35,7 +35,7 @@ header nav ul li a{
     display: block;
 }
 header nav ul li a:hover{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(8, 8, 8);
     opacity: 0.5;
 }
 header nav ul li ul li{
