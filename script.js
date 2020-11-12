@@ -186,3 +186,5 @@ Line.prototype.step = function() {
   
   if( dead ) return true
 }
+
+
