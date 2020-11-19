@@ -26,7 +26,7 @@ if(isset($_POST['submit-price'])) {
 echo 'Le jeu a bien été ajouté !';
 }
 
-if(isset($_POST['submit-agenda'])) {
+if(isset($_POST['articles'])) {
 
 }
 
