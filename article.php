@@ -15,8 +15,8 @@
     <nav id="block">
         <ul>
         <li><a href="index.html">Acceuil</a></li>
-            <li><a href="price.html">Price</a></li>
             <li><a href="articles.html">Articles</a></li>
+            <li><a href="price.html">Price</a></li>
             <li><a href="contact.html">Contact</a></li>
         </ul>
     </nav>
