@@ -75,6 +75,14 @@ sagittis aliquam. Fusce efficitur orci odio, vitae vestibulum risus molestie eu.
         </div>
 
     </section>
+    <form method="post" action="/send.php">
+	<p>Pseudo : <input type="text" name="pseudo" value="" /></p>
+	<p>
+		Votre commentaire :<br />
+		<textarea name="commentaire" rows="5" cols="60"maxlength="400"></textarea>
+    </p>
+    <p><input type="submit" name="submit-price" value="Envoyer le commentaire" /></p>
+</form>
     <footer>
 
     </footer>
